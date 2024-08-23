@@ -4,8 +4,6 @@
 #include <stdlib.h>
 #include <locale.h>
 
-
-
 int negacao(int a, int b)
 {
     int resultado = 0, resultado2 = 0;
@@ -97,7 +95,3 @@ int main()
     printf("%s\n", sentenca);
     return 0;
 }
-
-
-
-
